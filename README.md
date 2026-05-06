@@ -40,4 +40,4 @@ This project successfully improved GNSS data coverage in California, supporting 
 - GNSS field equipment  
 
 ## Poster
-[![Poster Preview](poster.png)](https://docs.google.com/presentation/d/17E1yjJEpskRrwInxj3V4apDILfVCa5ba9pZUlfgqFi4)
+[![Poster](poster.png)](https://docs.google.com/presentation/d/17E1yjJEpskRrwInxj3V4apDILfVCa5ba9pZUlfgqFi4)
